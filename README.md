@@ -1,0 +1,2 @@
+This is the repository for my First Project in HTML with the Odin Project by the end I will demonstrate the ability to create a cohesive web enviroments with internal links, external links, embeded images, bold text, emphasis or italic text. 
+Within the GITHUB I should be able to prove good knowledge and use of the tool this along with any future projects and code done while learning with TOP will be available in my GitHub repository for TOP (https://github.com/Juaniroxti/Programing---Odin-project/tree/lessons-in-progress).
